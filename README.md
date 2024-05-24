@@ -1,2 +1,3 @@
 # GitStudy
-Git/GitHubの勉強会のため
+ICT演習でのGit/GitHubの勉強会のため．
+チームA用
